@@ -49,7 +49,7 @@ A modern event discovery platform built with Next.js 16, featuring personalized 
 
 ## Project Structure
 
-\`\`\`
+```
 ├── app/
 │   ├── page.tsx                 # Main event listing page
 │   ├── event/[id]/page.tsx      # Event detail page
@@ -65,7 +65,7 @@ A modern event discovery platform built with Next.js 16, featuring personalized 
 │   ├── mock-events.ts           # Mock event data
 │   ├── filter-utils.ts          # Filter and sort logic
 │   └── utils.ts                 # Utility functions
-\`\`\`
+```
 
 ## Color System
 
