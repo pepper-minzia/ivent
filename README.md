@@ -111,14 +111,14 @@ Potential features for future development:
 ## Getting Started
 
 1. Install dependencies:
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 2. Run the development server:
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 3. Open [http://localhost:3000](http://localhost:3000) in your browser
 
